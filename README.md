@@ -7,7 +7,7 @@ TDDBCのC#向けxUnit.netプロジェクトです。
 
 # 必要要件
 
-- .NET 5 SDK
+- [.NET 5 SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 # クイックスタート
 
